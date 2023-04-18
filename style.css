@@ -1,0 +1,41 @@
+body{
+    background-color: #f5f5f4;
+    color: #245953;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr{
+    background-color: #E49393;
+    border-style: none;
+    height: 3px;
+    width: 80%;
+}
+img{
+    border-radius: 50%;
+}
+
+#programmingskills{
+    text-align: left;
+}
+#row2{
+    position: absolute;
+    top: 327px;
+    left: 210px;
+
+}
+#generalskills{
+    position: absolute;
+    top: 260px;
+    left: 500px;
+   
+}
+#generalskillsrows{
+    position: absolute;
+    top: 320px;
+    left: 515px;
+}
+
+#home, #hobbies, #contact{
+    color: #245953;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
